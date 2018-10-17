@@ -52,8 +52,6 @@ namespace lesweek3
             int result = sum(sum((multiply(sum(100, 7), 3)), (multiply(5, divide((sum(406, 7367)), 69)))), sum((aftrekken(multiply(73, 41), 39)), (aftrekken(multiply(7, 8), 19))));
 
 
-
-
             if (result == 3872)
             {
                 Console.WriteLine("This result is correct: " + result);
@@ -62,11 +60,43 @@ namespace lesweek3
             else
             {
                 Console.WriteLine("This result is incorrect: " + result);
+            }
 
+
+            for (int counter = 1; counter < 11; counter++)
+            {
+
+                for (int counter2 = 1; counter2 < 11; counter2++)
+                {
+                    Console.WriteLine(counter + " x " + counter2 + " = " + multiply(counter, counter2));
+
+                }
+            }
+
+
+            //do while
+
+            int getal3 = 3;
+
+            do
+            {
+                Console.WriteLine("De waarde van het getal is: " + getal3);
+                getal3++;
+            } while (getal3 < 5);
+
+
+            //while
+            int getal4 = 4;
+            while (getal4 < 5)
+            {
+                Console.WriteLine("De waarde van het getal is: " + getal4);
+                getal4++;
 
             }
 
-            Console.WriteLine(result2);
+
+            Console.WriteLine(faculti(5));
+            // Console.WriteLine(result2);
         }
 
         static int sum(int a, int b)
@@ -92,5 +122,21 @@ namespace lesweek3
             return a - b;
         }
 
+
+
+        static int faculti(int number)
+        {
+            int result = 1;
+
+            for (int i = 1; i <= number; i++)
+            {
+
+
+                result *= i;
+            }
+            return result;
+
+
+        }
     }
 }
