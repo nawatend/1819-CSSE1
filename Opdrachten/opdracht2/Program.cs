@@ -8,8 +8,24 @@ namespace opdracht2
         {
             Console.WriteLine("Hello World Opdracht 2!");
 
-            Console.WriteLine(faculti(5));
-            Console.WriteLine(fibonachi(10));
+
+            for (int counter = 1; counter < 11; counter++)
+            {
+
+                for (int counter2 = 1; counter2 < 11; counter2++)
+                {
+                    Console.WriteLine(counter + " x " + counter2 + " = " + multiply(counter, counter2));
+
+                }
+            }
+
+            Console.WriteLine("Dit is faculteit van 5: " + faculti(5));
+            Console.WriteLine("Dit is fibonachi van 22de keer: " + fibonachi(22));
+        }
+        static int multiply(int a, int b)
+        {
+
+            return a * b;
         }
 
         static int faculti(int number)
