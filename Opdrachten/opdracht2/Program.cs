@@ -13,8 +13,14 @@ namespace opdracht2
                     Console.WriteLine(counter + " x " + counter2 + " = " + multiply(counter, counter2));
                 }
             }
-            Console.WriteLine("Dit is faculteit van 5: " + faculti(5));
-            Console.WriteLine("Dit is fibonachi van 22de keer: " + fibonachi(22));
+            Console.WriteLine("Write a number: ");
+            int numberUser = int.Parse(Console.ReadLine());
+            Console.WriteLine("Dit is faculteit van " + numberUser + ": " + faculti(numberUser));
+
+
+            Console.WriteLine("Write a number: ");
+            int numberUser2 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Dit is fibonachi van " + numberUser2 + "de keer: " + fibonachi(numberUser2));
         }
         static int multiply(int a, int b)
         {
@@ -35,7 +41,7 @@ namespace opdracht2
             int result = 0;
             int preValue1 = 1;
             int preValue2 = 0;
-            for (int i = 0; i <= length; i++)
+            for (int i = 0; i < length; i++)
             {
                 result = preValue2 + preValue1;
                 preValue2 = preValue1;
