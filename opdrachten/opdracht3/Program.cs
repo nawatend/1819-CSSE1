@@ -47,6 +47,25 @@ namespace opdracht3
             Console.WriteLine("Write Search value: ");
             GetItemFromCollection(Console.ReadLine(), dictionary);
 
+
+            //Queue Collection
+            Queue<string> doctorAppointments = new Queue<string>();
+            doctorAppointments.Enqueue("Nawang");
+            doctorAppointments.Enqueue("Johnny");
+            doctorAppointments.Enqueue("Lisa");
+            doctorAppointments.Enqueue("Izabella");
+            doctorAppointments.Enqueue("Fien");
+            Console.WriteLine("Doctor's Appointment: ");
+            PrintValues(doctorAppointments);
+
+
+            // Removes another element from the Queue.
+            Console.WriteLine("Remove first Doctor's Appointment: ");
+            Console.WriteLine("(Dequeue)\t{0}", doctorAppointments.Dequeue());
+
+            Console.WriteLine("After remove first appointment: ");
+            PrintValues(doctorAppointments);
+
         }
         static Dictionary<string, double> SortByName(Dictionary<string, double> dictionaryOriginal)
         {
@@ -134,6 +153,13 @@ namespace opdracht3
 
 
             return found;
+        }
+
+        public static void PrintValues(Queue<string> myCollection)
+        {
+            foreach (Object obj in myCollection)
+                Console.WriteLine("          {0}", obj);
+            Console.WriteLine();
         }
     }
 }
