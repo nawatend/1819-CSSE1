@@ -19,6 +19,6 @@ Geef 5 voorbeelden van back end frameworks.
 	- Slim
 Welke zijn de populairste back end en front end frameworks?
 
-	Front-end frameworks: React, Vue.js, Angular, Bootstrap, Materialize
+	Front-end frameworks: React, Vue.js, Angular, Bootstrap, Materialize.
 		
-	Back-end frameworks:Ruby On Rails, Laravel, Django, Express
+	Back-end frameworks:Ruby On Rails, Laravel, Django, Express.
