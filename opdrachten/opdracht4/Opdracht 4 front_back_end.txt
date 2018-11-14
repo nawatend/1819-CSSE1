@@ -1,0 +1,24 @@
+Wat is het verschil tussen front end back end?
+
+-frontend houdt bezig met visueel en ervaring van website. Back end houdt bezig met gegevens uit database te verbinden tussen website en server.
+
+
+
+Geef 5 voorbeelden van front end framework.
+	- React
+	- Vue.js
+	- Angular
+	- Blueprint
+	- Bootstrap
+	- Ember
+Geef 5 voorbeelden van back end frameworks.
+	- Ruby On Rails
+	- Laravel
+	- Symfony
+	- CodeIgniter
+	- Slim
+Welke zijn de populairste back end en front end frameworks?
+
+	Front-end frameworks: React, Vue.js, Angular, Bootstrap, Materialize
+		
+	Back-end frameworks:Ruby On Rails, Laravel, Django, Express
