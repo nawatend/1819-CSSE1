@@ -27,6 +27,9 @@ class Product
 
         Console.WriteLine("3 Para. " + name + " " + type + " ingredients[0]: " + ingredients[0]);
     }
-
+    public override string ToString()
+    {
+        return this.name + " : " + this.type + " : " + this.ingredients[0];
+    }
 
 }

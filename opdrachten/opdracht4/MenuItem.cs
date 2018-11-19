@@ -26,4 +26,10 @@ class MenuItem
 
         Console.WriteLine("2 Para. " + product + " " + price);
     }
+
+
+    public override string ToString()
+    {
+        return product.ToString() + ": " + price.ToString();
+    }
 }

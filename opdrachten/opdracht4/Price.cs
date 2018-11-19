@@ -26,4 +26,9 @@ class Price
         Console.WriteLine("2 Para. " + currency + " " + price);
     }
 
+
+    public override string ToString()
+    {
+        return this.currency + " " + this.price;
+    }
 }

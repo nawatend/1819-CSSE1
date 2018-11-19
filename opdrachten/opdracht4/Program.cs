@@ -42,9 +42,11 @@ namespace opdracht4
                 listOfMenuItem.Add(newMenuItem);
             }
 
+            Console.WriteLine("________________List Of MenuItem____________________________");
+            Console.WriteLine("MenuItem Name, --- Type - Ingredient[0] - Price");
             foreach (var item in listOfMenuItem)
             {
-                Console.WriteLine(item);
+                Console.WriteLine(item.ToString());
             }
         }
     }
