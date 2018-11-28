@@ -1,0 +1,11 @@
+C:\Users\ntend\code\gdmgent-1819-CSSE1\opdrachten\opdracht5\obj\Debug\netcoreapp2.1\opdracht5.csprojAssemblyReference.cache
+C:\Users\ntend\code\gdmgent-1819-CSSE1\opdrachten\opdracht5\obj\Debug\netcoreapp2.1\opdracht5.csproj.CoreCompileInputs.cache
+C:\Users\ntend\code\gdmgent-1819-CSSE1\opdrachten\opdracht5\obj\Debug\netcoreapp2.1\opdracht5.AssemblyInfoInputs.cache
+C:\Users\ntend\code\gdmgent-1819-CSSE1\opdrachten\opdracht5\obj\Debug\netcoreapp2.1\opdracht5.AssemblyInfo.cs
+C:\Users\ntend\code\gdmgent-1819-CSSE1\opdrachten\opdracht5\bin\Debug\netcoreapp2.1\opdracht5.deps.json
+C:\Users\ntend\code\gdmgent-1819-CSSE1\opdrachten\opdracht5\bin\Debug\netcoreapp2.1\opdracht5.runtimeconfig.json
+C:\Users\ntend\code\gdmgent-1819-CSSE1\opdrachten\opdracht5\bin\Debug\netcoreapp2.1\opdracht5.runtimeconfig.dev.json
+C:\Users\ntend\code\gdmgent-1819-CSSE1\opdrachten\opdracht5\bin\Debug\netcoreapp2.1\opdracht5.dll
+C:\Users\ntend\code\gdmgent-1819-CSSE1\opdrachten\opdracht5\bin\Debug\netcoreapp2.1\opdracht5.pdb
+C:\Users\ntend\code\gdmgent-1819-CSSE1\opdrachten\opdracht5\obj\Debug\netcoreapp2.1\opdracht5.dll
+C:\Users\ntend\code\gdmgent-1819-CSSE1\opdrachten\opdracht5\obj\Debug\netcoreapp2.1\opdracht5.pdb
