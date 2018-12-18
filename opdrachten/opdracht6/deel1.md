@@ -6,12 +6,12 @@ Met 'reference type' kan je twee variabelen naar een zelfde object verwijzen. Du
 
 ### C# Value Types: onderdeling
 1. Simple Types
-* Signed integral: sbyte, short, int, long
-* Unsigned integral: byte, ushort, uint, ulong
-* Unicode characters: char
-* IEEE floating point: float, double
-* High-precision decimal: decimal
-* Boolean: bool
+   * Signed integral: sbyte, short, int, long
+   * Unsigned integral: byte, ushort, uint, ulong
+   * Unicode characters: char
+   * IEEE floating point: float, double
+   * High-precision decimal: decimal
+   * Boolean: bool
 2. Enum types
     User-defined types of the form enum E {...}
 3. Struct types
