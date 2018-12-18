@@ -78,5 +78,23 @@ Enum type is altijd constant. Enum is verzameling waar alle value's in enum zelf
 
 
 ### - Wat is een dataformaat?
+  * Dataformaat is classificatie van type van data dat een variabel of object kan bevatten in computer programmeertaal.
+  * 
 ### - Welke dataformaten zijn er?
+
+   * Boolean
+   * Char
+   * Date
+   * Double
+   * Float
+   * Integer
+   * String
+   * Long
+   * Short
+   * Void
+   * Decimal
+   * byte 
+   * ...
 ### - Wat zijn de verschillen?
+  * Voor Numeriek: Double, float, integer, long, decimal, short
+  * voor niet-numeriek: Char, Bool
