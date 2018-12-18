@@ -1,4 +1,6 @@
 # Deel 1
+## Naam: Nawang Tendar
+## Datum: 18/12/2018
 ## Verslag omtrent Dataformaten
 
 Er zijn twee soorten van data types in C#, namelijk 'value type' en 'reference type'. Variabelen van 'value type' krijgt direct de waarde en variabelen van 'reference type' sla reference op. 

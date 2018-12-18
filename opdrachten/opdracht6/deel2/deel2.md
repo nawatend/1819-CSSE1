@@ -1,4 +1,11 @@
+
+
+
 # Deel 2
+
+## Naam: Nawang Tendar
+## Datum: 18/12/2018
+
 ## Verslag omtrent Database
 
 Database is een verzameling van van data die goede structuur bewaard en makkelijk toegang hebben tot data.
