@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ntend\\code\\gdmgent-1819-CSSE1\\opdrachten\\opdracht6\\opdracht6.csproj",
+      "projectUniqueName": "c:\\Users\\ntend\\code\\gdmgent-1819-CSSE1\\opdrachten\\try_catch\\opdracht6.csproj",
       "projectName": "opdracht6",
-      "projectPath": "C:\\Users\\ntend\\code\\gdmgent-1819-CSSE1\\opdrachten\\opdracht6\\opdracht6.csproj",
+      "projectPath": "c:\\Users\\ntend\\code\\gdmgent-1819-CSSE1\\opdrachten\\try_catch\\opdracht6.csproj",
       "packagesPath": "C:\\Users\\ntend\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ntend\\code\\gdmgent-1819-CSSE1\\opdrachten\\opdracht6\\obj\\",
+      "outputPath": "c:\\Users\\ntend\\code\\gdmgent-1819-CSSE1\\opdrachten\\try_catch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
