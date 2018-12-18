@@ -55,6 +55,24 @@ Twee floating-point types: *float* and *double* heeft ondersteuning van 32-bit s
 | double   | Double    | Double-precision floating point type                                                              | 64          | -1.79769313486232e308 to 1.79769313486232e308           |
 | decimal  | Decimal   | Precise fractional or integral type that can represent decimal numbers with 29 significant digits | 128         | (+ or -)1.0 x 10e-28 to 7.9 x 10e28                     |
 
+#### Class
+Class definieert een data structuur dat data members en functies(methodes, properties ... ) bevatten. In class, kan je gebruik maken van inheritance en polymorphism.
+
+
+#### Struct
+Struct lijkt op class maar kan geen gebruik maken van inheritance en polymorphism.
+
+
+#### Interface
+Interface definieert een regel dat functie public staat. Elke class of struct moet deze functie definieren.
+
+
+#### Delegate
+Delegate type is een reference naar een mothode met gekozen parameter en return type. Met delegats, kan je methodes als entities behandelen dat je verwijzen naar een variabel en doorgeven als parameters. Delegate is soort van function pointer in andere programmeren taal(C++, ...).
+
+#### Enum
+Enum type is altijd constant. Enum is verzameling waar alle value's in enum zelfde type zijn. 
+
 
 
 
