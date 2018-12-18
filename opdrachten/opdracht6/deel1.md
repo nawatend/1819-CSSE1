@@ -6,7 +6,7 @@ Met 'reference type' kan je twee variabelen naar een zelfde object verwijzen. Du
 
 ### C# Value Types: onderdeling
 1. Simple Types
-    Signed integral: sbyte, short, int, long
+        Signed integral: sbyte, short, int, long
     Unsigned integral: byte, ushort, uint, ulong
     Unicode characters: char
     IEEE floating point: float, double
